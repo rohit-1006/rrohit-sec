@@ -132,123 +132,359 @@ Connection to github.com closed.
 
 
 
+
+# ☠️ Ultimate Badass Hacker README.md
+
 ```markdown
-```text
-┌───────────────────────────────────────────────────────────────┐
-│  $ whoami                                                    │
-│  0xYourHandle                                                │
-│                                                               │
-│  $ printf "offensive // reversing // low-level pwn\n"        │
-│  offensive // reversing // low-level pwn                     │
-└───────────────────────────────────────────────────────────────┘
+<div align="center">
+
+<!-- GLITCH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:00ff00&text=SYSTEM%20BREACHED&fontSize=60&fontColor=00ff00&animation=twinkling&stroke=00ff00&strokeWidth=2"/>
+
+```
+                            ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                          ▄▀░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▄
+                         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+                        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+                        █░█▀▀▀▀▀█░█▀▀▀▀▀█░▀▀█▀▀░█░░░█░█▀▀▀▀▀█░█
+                        █░█░░░░░█░█░░░░░█░░░█░░░█░░░█░█░░░░░░░█
+                        █░█░░░░░█░█▀▀▀▀▀█░░░█░░░█▀▀▀█░█▀▀▀▀▀░░█
+                        █░█░░░░░█░█░░░░░█░░░█░░░█░░░█░░░░░░░█░█
+                        █░█▄▄▄▄▄█░█░░░░░█░░░█░░░█░░░█░█▄▄▄▄▄█░█
+                        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+                         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+                          ▀▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▀
+                            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+        ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗    
+        ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║    
+        ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║    
+        ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║    
+        ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝    
+        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝     
+                                             
+                  ☠️  FEAR THE ONES WHO WALK IN SHADOWS  ☠️
+
 ```
 
-# 0xYourHandle
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%24+ACCESS+GRANTED...;%24+FIREWALL+BYPASSED...;%24+ROOT+OBTAINED...;%24+EXTRACTING+DATA...;%24+COVERING+TRACKS...;%24+CONNECTION+TERMINATED." alt="Typing SVG" />
 
-> Offensive Security • Binary Exploitation • Web Hacking • Reverse Engineering  
-> I weaponize bugs in **my own labs / CTFs / sandboxes**.  
-> I break assumptions, not laws.
+<img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="350">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗    ┃
+┃  ██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║    ┃
+┃  ██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║    ┃
+┃  ██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║    ┃
+┃  ██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║    ┃
+┃  ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
 
 ---
 
-## 🧬 fingerprint
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-```text
-handle      : 0xYourHandle
-role        : offensive security / red team (ethical)
-focus       : pwn · web · reversing · opsec · automation
-territory   : CTFs · local infra · intentionally vulnerable targets
-ethics      : offense for research & defense only
-```
+## ☠️ `> ./execute_payload.sh --target=README`
 
-Binary exploitation, strange edge cases, and protocols abused on purpose‑built targets.  
-Everything is reproducible, documented, and legally contained.
-
----
-
-## ⚙ arsenal
-
-```text
-[ LANG ]
-  Python · Bash · PowerShell · C · (some) Go · (some) Rust
-
-[ OFFENSIVE ]
-  nmap · Burp Suite · ffuf · sqlmap (labs) · wfuzz · feroxbuster ·
-  impacket · crackmapexec (lab AD only) · responder (lab only)
-
-[ REVERSING / PWN ]
-  Ghidra · IDA Free · radare2 · x64dbg · gdb / pwndbg · pwntools · Frida
-
-[ DEFENSIVE ]
-  Wireshark · Zeek · Suricata · YARA · Sigma · OSINT tooling
-
-[ SYSTEMS ]
-  Linux (Kali, Parrot, Arch/Ubuntu) · Windows · Docker · KVM/VirtualBox/VMware
-```
-
----
-
-## 🕶 operations (repos)
-
-> Replace links/names with your actual repositories.
-
-| Repo | Role | Description |
-|------|------|-------------|
-| [`blackout-lab`](https://github.com/yourusername/blackout-lab) | Attack Range | Full‑stack, **intentionally vulnerable** lab for offensive testing and blue‑team replay. |
-| [`zero-day-playground`](https://github.com/yourusername/zero-day-playground) | Exploit Dev | Stack/heap exploitation exercises, ROP chains, and notes – all against lab binaries. |
-| [`ctf-warcab`](https://github.com/yourusername/ctf-warcab) | CTF Archive | Public CTF writeups, payloads, and post‑mortems. No spoilers for active events. |
-| [`ghost-in-the-wire`](https://github.com/yourusername/ghost-in-the-wire) | RE / Malware Lab | Reverse‑engineering methodology & writeups from **lab-only samples** (no binaries committed). |
-| [`recon-automata`](https://github.com/yourusername/recon-automata) | Automation | Scripts for repeatable recon & enumeration against my own infra / lab targets. |
-| [`red-notes`](https://github.com/yourusername/red-notes) | Knowledge Base | TTPs, playbooks, and cheat sheets for ethical offensive operations. |
-
-```text
-targets  : CTFs · local VMs · dedicated lab infra
-banned   : prod targets · client data · creds · live malware samples
-```
-
----
-
-## 🔥 currently exploiting (learning focus)
-
-```text
-[+] weaponizing web bugs into full chain compromise (lab)
-[+] deepening Linux pwn: stack / heap / format strings / ROP
-[+] refining opsec & tradecraft for realistic red team simulations
-[+] extracting defensive lessons from every offensive op
+```bash
+┌──(root💀shadownet)-[/home/gh0st]
+└─# neofetch --ascii_distro kali
+                                                    
+       ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗   
+      ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝   gh0st@shadownet
+      ██║  ███╗███████║██║   ██║███████╗   ██║      ---------------
+      ██║   ██║██╔══██║██║   ██║╚════██║   ██║      OS: Kali Linux x86_64
+      ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║      Kernel: 6.6.6-evil
+       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      Shell: zsh 5.9
+                                                    Uptime: 24/7/365
+                                                    DE: /dev/null
+                                                    Terminal: TTY1
+                                                    Status: Hunting...
 ```
 
 ---
 
-## 🎓 signal
+## 🔥 `> cat /etc/shadow | grep identity`
 
-```text
-path    : OSCP / PNPT / eJPT / HTB tracks (update with reality)
-proof   : CTF rankings · lab reports · public writeups
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+"""
+
+class EliteHacker:
+    
+    def __init__(self):
+        self.codename = "GH0ST"
+        self.title = "Red Team Lead | Exploit Developer | Digital Ghost"
+        self.location = "Everywhere & Nowhere"
+        self.ip = "127.0.0.1"  # There's no place like home
+        
+        self.skills = {
+            "languages": ["Python", "C/C++", "x86 Assembly", "PowerShell", "Bash", "Go", "Rust"],
+            "offensive": ["APT Simulation", "0day Research", "Exploit Dev", "Malware Dev", "Social Engineering"],
+            "tools": ["Cobalt Strike", "Metasploit", "Burp Suite", "Ghidra", "IDA Pro", "Custom C2"],
+            "expertise": ["Active Directory", "Network Pivoting", "AV/EDR Evasion", "Kernel Exploitation"]
+        }
+        
+        self.motto = "We don't break in. We were never there."
+        
+    def get_target(self):
+        return "[REDACTED]"
+    
+    def current_operation(self):
+        return "███████████ CLASSIFIED ███████████"
+
+if __name__ == "__main__":
+    hacker = EliteHacker()
+    print("[*] Initializing profile...")
+    print("[+] Access granted.")
+    print(f"[!] {hacker.motto}")
 ```
-
-Details, PoCs, and timelines are documented per‑repo.
 
 ---
 
-## 📡 comms
+## 💀 `> nmap -sS -sV -O -A --script=vuln target`
 
-```text
-email    : you@protonmail.com
-linkedin : https://www.linkedin.com/in/your-handle
-site     : https://your-site.example
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  ██╗    ██╗███████╗ █████╗ ██████╗  ██████╗ ███╗   ██╗███████╗                ┃
+┃  ██║    ██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝                ┃
+┃  ██║ █╗ ██║█████╗  ███████║██████╔╝██║   ██║██╔██╗ ██║███████╗                ┃
+┃  ██║███╗██║██╔══╝  ██╔══██║██╔═══╝ ██║   ██║██║╚██╗██║╚════██║                ┃
+┃  ╚███╔███╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║███████║                ┃
+┃   ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+|  💉 INJECTION  |  🔓 EXPLOITATION  |  🕷️ POST-EXPLOIT  |  👻 PERSISTENCE  |
+|:-------------:|:-----------------:|:-----------------:|:----------------:|
+| SQL Injection | Buffer Overflow | Mimikatz | Rootkits |
+| XSS/CSRF | Heap Exploitation | BloodHound | Backdoors |
+| XXE/SSRF | Kernel Exploits | Kerberoasting | Bootkits |
+| LDAP Injection | ROP Chains | DCSync | Fileless Malware |
+| Command Injection | Use-After-Free | Pass-The-Hash | Registry Persistence |
+| Template Injection | Race Conditions | Golden Ticket | Scheduled Tasks |
+| Deserialization | Format Strings | Lateral Movement | WMI Events |
+
+</div>
+
+---
+
+## ⚡ `> cat /proc/weapons`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-☠️-000000?style=for-the-badge&logo=python&logoColor=ff0000&labelColor=000000)
+![C](https://img.shields.io/badge/C/C++-☠️-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff0000&labelColor=000000)
+![Assembly](https://img.shields.io/badge/Assembly-☠️-000000?style=for-the-badge&logo=assemblyscript&logoColor=ff0000&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-☠️-000000?style=for-the-badge&logo=rust&logoColor=ff0000&labelColor=000000)
+![Go](https://img.shields.io/badge/Go-☠️-000000?style=for-the-badge&logo=go&logoColor=ff0000&labelColor=000000)
+![PowerShell](https://img.shields.io/badge/PowerShell-☠️-000000?style=for-the-badge&logo=powershell&logoColor=ff0000&labelColor=000000)
+![Bash](https://img.shields.io/badge/Bash-☠️-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff0000&labelColor=000000)
+
+![Kali](https://img.shields.io/badge/Kali-💀-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00&labelColor=000000)
+![Parrot](https://img.shields.io/badge/Parrot-💀-000000?style=for-the-badge&logo=parrotsecurity&logoColor=00ff00&labelColor=000000)
+![BlackArch](https://img.shields.io/badge/BlackArch-💀-000000?style=for-the-badge&logo=archlinux&logoColor=00ff00&labelColor=000000)
+![Whonix](https://img.shields.io/badge/Whonix-💀-000000?style=for-the-badge&logo=whonix&logoColor=00ff00&labelColor=000000)
+![Tails](https://img.shields.io/badge/Tails-💀-000000?style=for-the-badge&logo=tails&logoColor=00ff00&labelColor=000000)
+![Tor](https://img.shields.io/badge/Tor-💀-000000?style=for-the-badge&logo=torproject&logoColor=00ff00&labelColor=000000)
+
+</div>
+
+---
+
+## 📊 `> tail -f /var/log/destruction.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=00ff00&ring_color=ff0000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=ff0000&sideLabels=ff0000&dates=00ff00" width="49%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=0d1117&color=ff0000&line=00ff00&point=ff0000&area=true&hide_border=true&area_color=ff0000" width="98%"/>
+</div>
+
+---
+
+## 🏴‍☠️ `> strings /dev/achievements | grep FLAG`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                  ║
+║    ██████╗ ██╗   ██╗██╗     ██╗         ██╗  ██╗ █████╗ ██╗     ██╗              ║
+║    ██╔══██╗██║   ██║██║     ██║         ██║  ██║██╔══██╗██║     ██║              ║
+║    ██████╔╝██║   ██║██║     ██║         ███████║███████║██║     ██║              ║
+║    ██╔═══╝ ██║   ██║██║     ██║         ██╔══██║██╔══██║██║     ██║              ║
+║    ██║     ╚██████╔╝███████╗███████╗    ██║  ██║██║  ██║███████╗███████╗         ║
+║    ╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝         ║
+║                                                                                  ║
+║    [✓] CVE-2024-XXXXX    - Remote Code Execution           [CRITICAL]           ║
+║    [✓] CVE-2024-XXXXX    - Authentication Bypass           [HIGH]               ║
+║    [✓] CVE-2024-XXXXX    - Privilege Escalation            [HIGH]               ║
+║    [✓] $150,000+         - Total Bug Bounty Earnings       [💰]                 ║
+║    [✓] 500+ Boxes        - Pwned on HackTheBox/THM         [🎯]                 ║
+║    [✓] Top 1%            - Global CTF Rankings             [🏆]                 ║
+║    [✓] Red Team Ops      - Fortune 500 Engagements         [🔴]                 ║
+║                                                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📜 `> gpg --decrypt certifications.gpg`
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃   SECURITY CLEARANCE: ████████████ TOP SECRET ████████████        ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                                    ┃
+┃   [■■■■■■■■■■] OSCP   - Offensive Security Certified Pro          ┃
+┃   [■■■■■■■■■■] OSEP   - Offensive Security Experienced Pentester  ┃
+┃   [■■■■■■■■■■] OSED   - Offensive Security Exploit Developer      ┃
+┃   [■■■■■■■■■■] CRTO   - Certified Red Team Operator               ┃
+┃   [■■■■■■■■■■] CRTP   - Certified Red Team Professional           ┃
+┃   [■■■■■■■■■■] CPTS   - Certified Penetration Testing Specialist  ┃
+┃   [■■■■■■■■░░] OSCE³  - In Progress...                            ┃
+┃                                                                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+---
+
+## 🕳️ `> find / -name "projects" -exec cat {} \;`
+
+<div align="center">
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=REPO1&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=00ff00&border_color=ff0000)](https://github.com/YOURUSERNAME/REPO1)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=REPO2&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=00ff00&border_color=ff0000)](https://github.com/YOURUSERNAME/REPO2)
+
+</div>
+
+---
+
+## 🩸 `> hexdump -C /dev/hacking`
+
+<div align="center">
+
+```
+00000000  48 41 43 4b 20 54 48 45  20 50 4c 41 4e 45 54 00  |HACK THE PLANET.|
+00000010  ██████████████████████████████████████████████████
+00000020  ██                                              ██
+00000030  ██  "I don't hack systems. I expose their      ██
+00000040  ██   illusion of security."                    ██
+00000050  ██                                              ██
+00000060  ██  "Every system has a vulnerability.         ██
+00000070  ██   Every human is an exploit."               ██
+00000080  ██                                              ██
+00000090  ██  "In a world of locks, I am the master key."██
+000000a0  ██                                              ██
+000000b0  ██████████████████████████████████████████████████
+000000c0  00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  |................|
+```
+
+</div>
+
+---
+
+## 📡 `> ss -tulpn | grep ESTABLISHED`
+
+<div align="center">
+
+```
+ESTAB   0   0   gh0st:1337   →   darkweb:443     [ENCRYPTED]
+ESTAB   0   0   gh0st:31337  →   targets:*       [SCANNING]
+ESTAB   0   0   gh0st:666    →   victims:22      [EXPLOITING]
+```
+
+[![Twitter](https://img.shields.io/badge/Twitter-☠️_@HANDLE-000000?style=for-the-badge&logo=x&logoColor=ff0000&labelColor=0d1117)](https://twitter.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-☠️_ELITE-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00&labelColor=0d1117)](https://hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-☠️_TOP_1%25-000000?style=for-the-badge&logo=tryhackme&logoColor=ff0000&labelColor=0d1117)](https://tryhackme.com/)
+[![BugCrowd](https://img.shields.io/badge/BugCrowd-☠️_MVP-000000?style=for-the-badge&logo=bugcrowd&logoColor=ff0000&labelColor=0d1117)](https://bugcrowd.com/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-☠️_HACKER-000000?style=for-the-badge&logo=hackerone&logoColor=00ff00&labelColor=0d1117)](https://hackerone.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+```
+                           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                           ░░██╗░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░░
+                           ░░╚═╝░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╚═╝░░
+                           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+                           ░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░░░░
+                           ░░░░░░░░░█░░░░░░░░░░░░░░░░░█░░░░░░░░░░░░
+                           ░░░░░░░░░█░░WE░ARE░░░░░░░░░█░░░░░░░░░░░░
+                           ░░░░░░░░░█░░░░LEGION░░░░░░░█░░░░░░░░░░░░
+                           ░░░░░░░░░█░░░░░░░░░░░░░░░░░█░░░░░░░░░░░░
+                           ░░░░░░░░░▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀░░░░░░░░░░░░
+                           ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "Those who would sacrifice security for convenience deserve neither."       ║
+║                                                                               ║
+║                    W E   A R E   T H E   G H O S T S                         ║
+║                     I N   T H E   M A C H I N E                              ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+┌──(root💀gh0st)-[~/world]
+└─# shutdown -h now "Session terminated. Traces erased."
+                                            
+Connection to reality closed by remote host.
+Connection to reality closed.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=0:ff0000,50:000000,100:00ff00&section=footer"/>
+
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=ff0000&labelColor=000000&label=☠️+INTRUDERS+DETECTED)
+
+**`[CONNECTION TERMINATED]`**
+
+</div>
 ```
 
 ---
 
-```text
-[ DISCLAIMER ]
+## ⚠️ Replace Before Use:
 
-All code, notes, and labs in this account are built for:
-  • education
-  • research
-  • strengthening defense
+- `YOURUSERNAME` → your actual GitHub username
+- `REPO1`, `REPO2` → your pinned repos  
+- `@HANDLE` → your social handles
+- Customize achievements/certifications
 
-Unauthorized access and real‑world abuse are not “elite”,
-just noisy and boring. Stay sharp. Stay legal.
-```
-```
+Need any tweaks? 🔥💀
