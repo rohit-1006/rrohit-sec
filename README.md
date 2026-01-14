@@ -1,21 +1,3 @@
-# Complete Hacker README.md
-
-```markdown
-<div align="center">
-
-```
- ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
-██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
-██║  ███╗███████║██║   ██║███████╗   ██║   
-██║   ██║██╔══██║██║   ██║╚════██║   ██║   
-╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
-        S H E L L
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=%24+sudo+access+granted;Penetration+Tester;Exploit+Developer;Red+Team+Operator;Bug+Bounty+Hunter;%24+cat+%2Fetc%2Fshadow" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 
 ```
 [  ACCESS GRANTED  ]
@@ -26,7 +8,7 @@
 ---
 
 ```bash
-┌──(gh0st㉿shadownet)-[~/profile]
+┌──(rohit㉿phantomcipher)-[~/profile]
 └─# cat README.md
 ```
 
@@ -37,8 +19,8 @@
 
 class Hacker:
     def __init__(self):
-        self.alias = "gh0st"
-        self.role = "Red Team Operator"
+        self.alias = "rohit"
+        self.role = "WebAppSec"
         self.location = "127.0.0.1"
         self.languages = ["Python", "C", "Assembly", "Bash", "PowerShell"]
         self.os = ["Kali", "Parrot", "BlackArch", "Whonix"]
@@ -94,21 +76,6 @@ me = Hacker()
 
 ---
 
-## 🏆 `> cat /root/achievements.log`
-
-<div align="center">
-
-```
-[2024-01-15 03:42:01] [SUCCESS] Obtained OSCP certification
-[2024-02-20 01:33:77] [SUCCESS] Pwned 100+ boxes on HackTheBox
-[2024-03-10 00:00:01] [SUCCESS] Found critical bug - $10,000 bounty
-[2024-04-05 13:37:00] [SUCCESS] Red Team engagement completed
-[2024-05-18 04:20:69] [SUCCESS] CVE-2024-XXXXX assigned
-[2024-06-22 02:14:33] [IN_PROGRESS] Hunting 0days...
-```
-
-</div>
-
 ---
 
 ## 🎯 `> nmap -sV certifications`
@@ -135,14 +102,6 @@ PORT      STATE  SERVICE         VERSION
 </div>
 
 ---
-
-## 💀 `> cat /var/log/activity.log`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=000000&color=00ff00&line=00ff00&point=ff0000&area=true&hide_border=true)
-
-</div>
 
 ---
 
