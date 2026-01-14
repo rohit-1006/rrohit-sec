@@ -1,51 +1,25 @@
-# Hi, I'm Alex 👋
+<div align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀
+██╗ ██╗ █████╗ ██████╗██╗ ██╗███████╗██████╗
+██║ ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+███████║███████║██║ █████╔╝ █████╗ ██████╔╝
+██╔══██║██╔══██║██║ ██╔═██╗ ██╔══╝ ██╔══██╗
+██║ ██║██║ ██║╚██████╗██║ ██╗███████╗██║ ██║
+╚═╝ ╚═╝╚═╝ ╚═╝ ╚═════╝╚═╝ ╚═╝╚══════╝╚═╝ ╚═╝
 
-I'm a cybersecurity engineer focused on **[blue team / red team / security automation / application security]**.  
-I enjoy building security tools, labs, and sharing what I learn.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Penetration+Tester;Exploit+Developer;Red+Team+Operator;Bug+Bounty+Hunter;Reverse+Engineer" alt="Typing SVG" />
 
----
+[![](https://img.shields.io/badge/OS-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![](https://img.shields.io/badge/OS-Parrot-00DC82?style=for-the-badge&logo=parrotsecurity&logoColor=white)](https://parrotsec.org)
+[![](https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
-## 🔐 Focus Areas
+</div>
+![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
-- Threat detection & hunting (SIEM, log analysis, detection engineering)
-- Incident response & forensic analysis
-- Security automation (Python, PowerShell, Bash)
-- Cloud security (AWS / Azure / GCP – choose yours)
-- Web application security & secure coding
 
----
 
-## 🛠️ Tech & Tools
 
-**Languages:** Python, Bash, PowerShell, Go  
-**Security:** Suricata, Zeek, Wireshark, Sigma, YARA, Nmap, Burp Suite  
-**Cloud / Infra:** Docker, Kubernetes, Terraform, Ansible  
-**Monitoring / SIEM:** Elastic, Splunk, Wazuh, Graylog  
-**OS:** Linux (Ubuntu, Kali), Windows
-
----
-
-## 📂 Highlighted Projects
-
-| Project | Description | Tech / Focus |
-|--------|-------------|--------------|
-| [`threat-hunting-lab`](https://github.com/username/threat-hunting-lab) | Local lab to practice detection & hunting using simulated attacks in a safe environment | Terraform, Ansible, Wazuh, Zeek |
-| [`blue-team-scripts`](https://github.com/username/blue-team-scripts) | Scripts for log parsing, IOC enrichment, and basic detection tasks | Python, Bash |
-| [`ctf-writeups`](https://github.com/username/ctf-writeups) | Writeups for CTF challenges (web, crypto, forensics, reversing) – all legal & educational | Markdown |
-| [`security-automation`](https://github.com/username/security-automation) | Automation scripts for common security tasks (log collection, enrichment, alerting) | Python |
-
----
-
-## 🎓 Learning & Certifications
-
-- Studying: OSCP / eJPT / Security+ / CISSP (list what applies)
-- Completed: [Your current certs or courses]
-
----
-
-## 📫 Contact
-
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
-- Email: `youremail@example.com`
-
-> All research and tools here are for **defensive, educational, and legal** use only.
