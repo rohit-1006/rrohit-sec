@@ -117,7 +117,7 @@ tcp    0.0.0.0:443       tryhackme.com      ESTABLISHED /learning
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 ```bash
-┌──(gh0st㉿shadownet)-[~]
+┌──(rohit㉿phantomcipher)-[~]
 └─# exit
 Connection to github.com closed.
 ```
@@ -126,15 +126,3 @@ Connection to github.com closed.
 
 </div>
 ```
-
----
-
-## ⚠️ Instructions
-
-1. Create a repository with your **exact username**
-2. Add this as `README.md`
-3. Replace all `YOURUSERNAME` with your GitHub username
-4. Replace `REPO1`, `REPO2` with your actual repo names
-5. Customize certifications, handles, and stats
-
-Want me to adjust the colors or add more sections?
