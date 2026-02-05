@@ -63,6 +63,11 @@ me = Hacker()
 
 <div align="center">
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Rohit10.png" alt="Your Image Badge" />
+
+---
+<div align="center">
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
