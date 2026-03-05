@@ -1,7 +1,6 @@
 ### Security Researcher · Tool Developer · Bug Hunter
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rohit10-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Rohit10)
-[![GitHub followers](https://img.shields.io/github/followers/rohit-1006?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117)](https://github.com/rohit-1006)
 
 </div>
 
